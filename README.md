@@ -12,19 +12,19 @@ Construir un ejemplo empresarial que permita sintetizar y revelar los conocimien
 
 4. Deberá tener información de:
 
-· Cantidades vendidas
+ · Cantidades vendidas
 
-· Precios de venta y de compra y sus márgenes de ganancia
+ · Precios de venta y de compra y sus márgenes de ganancia
 
-· Fechas de venta, abarcando al menos 6 meses
+ · Fechas de venta, abarcando al menos 6 meses
 
-· Porcentajes de descuento por cliente
+ · Porcentajes de descuento por cliente
 
-· Identificación de las 3 líneas de productos y de cada producto
+ · Identificación de las 3 líneas de productos y de cada producto
 
-· Identificación de las 5 categorías de clientes y de cada cliente
+ · Identificación de las 5 categorías de clientes y de cada cliente
 
-· Identificación de las ventas realizadas por cada vendedor
+ · Identificación de las ventas realizadas por cada vendedor
 
 5. Deberá utilizar referencias absolutas y relativas en la elaboración de las cifras de cada venta.
 
